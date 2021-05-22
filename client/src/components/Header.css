@@ -1,0 +1,16 @@
+.quote-action-container {
+	display: flex;
+	justify-content: space-around;
+}
+
+header {
+	background-color: #264653;
+	color: #e9c46a;
+}
+
+.app-name {
+	text-align: center;
+	color: #e9c46a;
+	padding-top: 2rem;
+	font-size: 5rem;
+}

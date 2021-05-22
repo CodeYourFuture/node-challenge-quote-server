@@ -1,0 +1,17 @@
+.all-quotes-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+	background-color: #ffd166;
+	margin-top: 3rem;
+	padding: 1rem 2rem;
+	border-radius: 1rem;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+label {
+	padding-right: 1rem;
+}

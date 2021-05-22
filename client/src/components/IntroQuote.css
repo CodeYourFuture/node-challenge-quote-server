@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap");
+.handwritten {
+	font-family: "Dancing Script", cursive;
+	text-align: center;
+	background-color: #e9c46a;
+	padding-top: 30vh;
+	min-height: 100vh;
+	font-size: 6rem;
+}
